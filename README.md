@@ -32,15 +32,6 @@ Take a look at the live project deployed on Netlify
 
 ## Preview
 
-**-----------------------------------------DESKTOP-----------------------------------------------------**
-
-<img src="https://github.com/Sky-De/react-typeScript-shopping-cart/assets/79264045/6a878390-a4cb-41aa-ab6e-f5c58a6eeb31" width="80%">
-
-
-**-----------------------------------------Mobile-------------------------------------------------------**
-
-<img src="https://github.com/Sky-De/react-typeScript-shopping-cart/assets/79264045/c0716e44-d730-46af-8176-3ea0a6af6d62" width="270">
-
 
 ![line]
 
@@ -80,7 +71,7 @@ Provided step-by-step instructions on how to install and run this project locall
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sky-De/react-typeScript-shopping-cart
+git clone https://github.com/Ghassan-SkyDe/react-typeScript-shopping-cart
 
 # Change directory
 cd your-repo-name
@@ -100,10 +91,6 @@ npm run dev
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 ## Contact
 
-**skyDe**
+**Ghassan-SkyDe**
 
-[LinkedIn](https://www.linkedin.com/in/sky-de-763248228)
-
-[GitHub](https://github.com/Sky-De)
-
-[Twitter](https://twitter.com/SkyDe1991?t=b2SJxGA4wmHwwgxDUUtE8Q&s=09)
+[GitHub](https://github.com/Ghassan-SkyDe)
